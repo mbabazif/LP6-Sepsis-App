@@ -19,7 +19,7 @@ Run the main app (being at the repository root):
 
  | Project's Name | Published Article  | Deployed PowerBi |
 |:--------------:|:--------------:|:--------------:|
-| LP2(Customer Churn Analysis)  |[Project Article](https://www.linkedin.com/pulse/sepsis-classification-machine-learning-project-florence-mbabazi-fn5if) |    [Hagging Face App](https://hub.docker.com/r/mbabaziflorence1234/sepsis-fastapi)|
+| LP2(Customer Churn Analysis)  |[Project Article](https://www.linkedin.com/pulse/sepsis-classification-machine-learning-project-florence-mbabazi-fn5if) |    [Docker Image](https://hub.docker.com/r/mbabaziflorence1234/sepsis-fastapi)|
 
 ## Author
 
