@@ -1,4 +1,4 @@
-# Sepsis Classification Machine Learning Project
+# FastAPI Sepsis Prediction Application Containerized with Docker and Integrated with a Machine Learning Model
 
 ## Objective Of This Project
 
